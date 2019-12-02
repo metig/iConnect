@@ -108,10 +108,13 @@ onSelectFile(event) { // called each time file input changes
                />  
               </div>
              </div>
+            
+              
              <button type="submit" className="btn btn-dark post-btn">
                Submit
              </button>
-           </form>
+            
+             </form>
          </div>
        </div>
      </div>
